@@ -33,6 +33,9 @@ https://thelittlefrenchcocotte.com/
 
 <h3>Screenshot:</h3>
 
+![capture1](https://user-images.githubusercontent.com/40691059/76660587-8a106580-6579-11ea-8c0b-79126fc16830.PNG)
+
+![Capture2](https://user-images.githubusercontent.com/40691059/76660593-8d0b5600-6579-11ea-99ae-cfe2dc1d6605.PNG)
 
 
 

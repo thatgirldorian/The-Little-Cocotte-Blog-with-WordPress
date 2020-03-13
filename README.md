@@ -1,8 +1,9 @@
 # The-Little-Cocotte-Blog-with-WordPress
 
 <h3>Function & Description:</h3>
-This is a blog revamp I did for a freelance client. She had a previous one with a wordpress.com and wanted on on wordpress.org. 
+This is a blog revamp I did for a freelance client. She had a previous one with a wordpress.com and wanted one on wordpress.org. 
 For this project, I
+
 
 - used a blog-friendly layout that's neat and easy to navigate
 - created some and tags categories for you
@@ -13,7 +14,7 @@ For this project, I
 - created a logo placeholder for you
 
 
-I also made a short screencast that shows her you how to:
+I also made a short screencast for her which shows her how to:
 - create categories
 - add a post to a category
 - create a post

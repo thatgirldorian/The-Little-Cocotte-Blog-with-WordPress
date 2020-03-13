@@ -26,7 +26,7 @@ I also made a short screencast for her which shows her how to:
 - WordPress
 - CSS
 - GitHub 
-- 
+
 
 <h3>Link to site:</h3>
 https://thelittlefrenchcocotte.com/
